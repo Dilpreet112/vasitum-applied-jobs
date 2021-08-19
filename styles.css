@@ -65,6 +65,8 @@ color: white;
 .search-button {
 padding: 4px 8px;
 font-size: 10px;
+    margin-left: 400px;
+    margin-top: -45px;
 }
 
 .search-icon  {
@@ -73,7 +75,7 @@ font-size: 10px;
 .form-control {
     padding: 10px 0;
     height: 10px;
-    font-size: 13px;
+    font-size: 11px;
     margin-top: 30px;
     margin-left: 130px;
     margin-right: 0.3rem;
